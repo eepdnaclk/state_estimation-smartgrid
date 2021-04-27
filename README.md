@@ -17,3 +17,8 @@ The work focuses on the problem of state estimation in the smart grid context. T
   - The LV-LSE algorithm aims to estimate the states of the network (ie:voltages) when the states of the network are not completely known. The algorithm is shown to work with as low as 60% smart meter data from the network. 
 
 The results analyse the algorithm effectiveness also in the case of erroneous data by comparing the performance for varying degrees of errors in smart meter data. It also evaluates the algorithm for varying smart meter data loss rates to prove its effectiveness. 
+
+## Running the code
+
+The main script to run is *Error_with_length.m*<br>
+Do explore the others. 
