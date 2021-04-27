@@ -6,7 +6,6 @@ Research students: [Chaminda Bandara](https://scholar.google.com/citations?user=
 Supervisors: Prof J.B Ekanayake, Dr. Roshan Godaliyadda, Dr. Parakrama Ekanayake
 
 You can find the published paper [here](https://www.sciencedirect.com/science/article/abs/pii/S0142061519336518). Please email authors(or smart grid team) if you are unable to access the full paper. 
-
 ***As last resort** email to [Jameel Hassan (SG team)](mailto:jameel.hassan.2014.eng.pdn.ac.lk) or [Umar Marikkar (SG team)](mailto:umar.m.eng.pdn.ac.lk).*
 
 ## Description of research work
