@@ -28,4 +28,5 @@ The research findings are validated by simulating on an actual existing network 
 ## Running the code
 
 The main script to run is *Error_with_length.m*<br>
+This runs the state estimation algorithm and compares the performance by varying lengths of the network. The performance is compared against the State-of-the-art(SOTA) reduction technique *Kron_reduc.m*.
 Do explore the others. 
