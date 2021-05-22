@@ -27,8 +27,9 @@ The research findings are validated by simulating on an actual existing network 
 
 ## Running the code
 
-The entire codebase is written in MATLAB. The script uses the MATLAB to OpenDSS interface to access OpenDSS for power flow simulations. Therefore, MATLAB and OpenDSS are used together for the simulations.
-<hr>
+The entire codebase is written in MATLAB. The script uses the MATLAB to OpenDSS interface to access OpenDSS for power flow simulations. Therefore, MATLAB and OpenDSS are used together for the simulations. <hr>
+
+OpenDSS is an open source software which you can obtain [here](https://sourceforge.net/projects/electricdss/) for Windows or [here](https://sourceforge.net/p/electricdss/discussion/861976/thread/e13492c302/?limit=25#f639) for Linux and MacOS versions (Check Paulo Meira's comment). You will need to have the relevant DSSStartup.m scripts in the working directory of the MATLAB sscript to run your code. <hr>
 
 The main script to run is *Error_with_length.m*<br>
 This runs the state estimation algorithm and compares the performance by varying lengths of the network. The performance is compared against the State-of-the-art(SOTA) reduction technique *Kronreduction.m*. <br>
