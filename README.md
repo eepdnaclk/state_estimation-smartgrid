@@ -4,7 +4,7 @@
 This repo contains the code and relevant data for the state estimation work done by the smart grid research group at DEEE UOP. 
 
 Research students: [Chaminda Bandara](https://scholar.google.com/citations?user=WwLxOJYAAAAJ&hl=en), [Dilini Almeida](https://scholar.google.com/citations?user=dzzvaeQAAAAJ&hl=en)<br>
-Supervisors: Prof J.B Ekanayake, Dr. Roshan Godaliyadda, Dr. Parakrama Ekanayake
+Supervisors: [Prof J.B Ekanayake](http://eng.pdn.ac.lk/deee/academic-staff/prof.jb.ekanayake/index.html#home), [Dr. Roshan Godaliyadda](http://eng.pdn.ac.lk/deee/staff/academic/dr.gmri.godaliyadda/profile.php), [Dr. Parakrama Ekanayake](http://eng.pdn.ac.lk/deee/staff/academic/dr.mpb.ekanayake/profile.php)
 
 You can find the published paper [here](https://www.sciencedirect.com/science/article/abs/pii/S0142061519336518). Please email authors(or smart grid team) if you are unable to access the full paper. <br>
 
