@@ -20,7 +20,7 @@ The results analyse the algorithm effectiveness also in the case of erroneous da
 
 ## The network used in the research
 The research findings are validated by simulating on an actual existing network in [Dehiwala, Sri Lanka](https://www.google.com/maps/place/Lotus+Grove/@6.8453557,79.8783252,15z/data=!4m5!3m4!1s0x0:0xa5e9d2a4922d6c45!8m2!3d6.8453557!4d79.8783252). The netowrk is called the Lotus Grove network- which is the name of the region. The schematic of the network is shown below. 
-![alt text](https://github.com/eepdnaclk/state_estimation-smartgrid/blob/main/Lotus\ Grove.png "Lotus Grove Network")
+![alt text](<https://github.com/eepdnaclk/state_estimation-smartgrid/blob/main/Lotus Grove.png> "Lotus Grove Network")
 
 
 ## Running the code
