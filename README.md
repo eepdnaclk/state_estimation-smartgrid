@@ -27,6 +27,9 @@ The research findings are validated by simulating on an actual existing network 
 
 ## Running the code
 
+The entire codebase is written in MATLAB. The script uses the MATLAB to OpenDSS interface to access OpenDSS for power flow simulations. Therefore, MATLAB and OpenDSS are used together for the simulations.
+<hr>
+
 The main script to run is *Error_with_length.m*<br>
-This runs the state estimation algorithm and compares the performance by varying lengths of the network. The performance is compared against the State-of-the-art(SOTA) reduction technique *Kron_reduc.m*.
+This runs the state estimation algorithm and compares the performance by varying lengths of the network. The performance is compared against the State-of-the-art(SOTA) reduction technique *Kronreduction.m*. <br>
 Do explore the others. 
